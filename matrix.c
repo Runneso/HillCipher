@@ -4,8 +4,6 @@
 #include <stdlib.h>
 
 #define ll long long
-typedef ll **Matrix;
-typedef ll *Vector;
 
 static ll norm_mod(ll x, const ll mod) {
     x %= mod;

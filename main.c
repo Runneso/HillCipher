@@ -1,10 +1,11 @@
+#include "matrix.h"
+
 #include <stdint.h>
 #include <stdio.h>
 #include <stdlib.h>
 #include <tgmath.h>
 #include <time.h>
 #include <string.h>
-#include "matrix.h"
 
 #define ll long long
 
